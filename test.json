@@ -2,9 +2,9 @@
     "newAppStatus":"off",
     "appPackage":"",
     "apiUrl":"https://albkino24.xyz/api/",
-    "wortise_banner_id":"test-banner",
-    "wortise_interstitial_id_1":"test-interstitial",
-    "wortise_interstitial_id_2":"test-interstitial",
-    "wortise_rewarded_id_1":"test-rewarded",
-    "wortise_native_id":"test-native"
+    "wortise_banner_id":"7c4c4099-1c4a-403d-9351-c911701bf069",
+    "wortise_interstitial_id_1":"fee5653a-f10b-476d-b889-85d51050325b",
+    "wortise_interstitial_id_2":"fee5653a-f10b-476d-b889-85d51050325b",
+    "wortise_rewarded_id_1":"47e59982-3a28-4b05-90e4-bc11b7dad4fb",
+    "wortise_native_id":"5542d485-1558-47c8-9886-372e1447d159"
 }
